@@ -8,7 +8,7 @@ SewScript IDE是 :doc:`Sew Script <../intro/what-is-sewscript>` 脚本专用集�
 安装
 -----
 
-安装方法
+Todo:安装方法
 
 使用方法
 ------------
@@ -18,3 +18,9 @@ SewScript IDE是 :doc:`Sew Script <../intro/what-is-sewscript>` 脚本专用集�
 
 创建人机界面
 ^^^^^^^^^^^^^
+
+模拟仿真
+^^^^^^^^^^^^^^
+
+下载
+^^^^^^^^^^

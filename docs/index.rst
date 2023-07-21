@@ -9,7 +9,7 @@ SEW SCRIPT: 新一代可编程的缝制电控
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: |:rocket:| Tutorials
+   :caption: 教程
 
    /intro/what-is-sewscript
    /intro/hardware-platform
@@ -18,20 +18,19 @@ SEW SCRIPT: 新一代可编程的缝制电控
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: |:books:| 参考资料
+   :caption: 参考资料
 
    /api/control
    /api/gui
 
-使用SewScript-IDE来快速, 简单, 高效的在通用硬件平台上开发属于你的缝纫程序,
-实现你设想的自动化场景, 而这一切都无需你掌握电机驱动和GUI实现, 
-所想即所得! 
+使用SewScript-IDE, 简单且高效的在通用硬件平台上开发属于你的缝纫程序, 
+落地你设想的自动化场景!
 
 |:star_struck:| 简单上手
    不需要你是专业的嵌入式开发人员, 你也无需掌握电机驱动原理.
 
-|:technologist:| 专注与你的业务
-   专业的人干专业的事情, 你的想法可以轻松实现.
+|:technologist:| 专注于你的业务
+   专业的人干专业的事情, 让经验丰富的现场人员真正参与设计程序.
 
 |:moneybag:| 最大的效益
    硬件平台优势.
